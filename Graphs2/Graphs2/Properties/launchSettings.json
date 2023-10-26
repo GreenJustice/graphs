@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Graphs2": {
+      "commandName": "Project",
+      "commandLineArgs": "-e list_of_edges_t2_003.txt"
+    }
+  }
+}

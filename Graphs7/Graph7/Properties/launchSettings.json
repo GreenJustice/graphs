@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Graph7": {
+      "commandName": "Project",
+      "commandLineArgs": "-m matrix_t7_004.txt"
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "Graph-Lab-9-2": {
+      "commandName": "Project",
+      "commandLineArgs": "-m matrix_t9_010.txt -b"
+    }
+  }
+}
